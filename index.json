@@ -1,0 +1,43 @@
+[
+    {
+        "name": "澎湃哔哩",
+        "restype": "quickapp",
+        "tags": [
+            "客户端",
+            "实用工具",
+            "视频",
+            "社区",
+            "互动",
+            "在线",
+            "哔哩哔哩",
+            "B站",
+            "b站"
+        ],
+        "devices": [
+            "n62",
+            "o62",
+            "o65m",
+            "n67"
+        ],
+        "path": "searchstars/hyperbili.json"
+    },
+    {
+        "name": "水平仪",
+        "restype": "quickapp",
+        "tags": [
+            "实用工具",
+            "传感器",
+            "导航"
+        ],
+        "devices": [
+            "n62",
+            "o62",
+            "o65",
+            "o65m",
+            "n67",
+            "n66",
+            "o66"
+        ],
+        "path": "lst/level.json"
+    }
+]
