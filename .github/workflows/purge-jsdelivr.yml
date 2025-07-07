@@ -1,0 +1,16 @@
+name: Purge jsDelivr Cache
+
+on:
+  schedule:
+    # 每小时触发一次
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  purge-cache:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Make purge request to jsDelivr
+        run: |
+          curl -s -X GET "https://purge.jsdelivr.net/gh/Astralsightstudios/AstroBox-Repo@master/index.csv"
