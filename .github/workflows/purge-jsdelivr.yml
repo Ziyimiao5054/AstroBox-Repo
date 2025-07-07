@@ -1,9 +1,9 @@
 name: Purge jsDelivr Cache
 
 on:
-  schedule:
-    # 每小时触发一次
-    - cron: '0 * * * *'
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
