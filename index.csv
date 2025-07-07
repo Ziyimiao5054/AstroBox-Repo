@@ -1,3 +1,3 @@
 name,restype,tags,devices,path
-"澎湃哔哩",quickapp,"客户端;实用工具;视频;社区;互动;在线;哔哩哔哩;B站;b站","n62;o62;o65m;n67",searchstars/hyperbili.json
-"水平仪",quickapp,"实用工具;传感器;导航","n62;o62;o65;o65m;n67;n66;o66",lst/level.json
+澎湃哔哩,quickapp,["客户端","实用工具","视频","社区","互动","在线","哔哩哔哩","B站","b站"],["n62","o62","o65m","n67"],searchstars/hyperbili.json
+水平仪,quickapp,["实用工具","传感器","导航"],["n62","o62","o65","o65m","n67","n66","o66"],lst/level.json
