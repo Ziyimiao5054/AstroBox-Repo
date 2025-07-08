@@ -1,3 +1,4 @@
 name,icon,cover,restype,tags,devices,path
 澎湃哔哩,https://raw.githubusercontent.com/Searchstars/Hyperbilibili_AstroBox_Release/refs/heads/main/icon.png,https://raw.githubusercontent.com/Searchstars/Hyperbilibili_AstroBox_Release/refs/heads/main/preview.png,quickapp,"客户端;实用工具;视频;社区;互动;在线;哔哩哔哩;B站;b站","n62;o62;o65m;n67",searchstars/hyperbili.json
 实时公交,https://raw.githubusercontent.com/Searchstars/RealTimeBus_AstroBox_Release/refs/heads/main/icon.png,https://raw.githubusercontent.com/Searchstars/RealTimeBus_AstroBox_Release/refs/heads/main/preview.png,quickapp,"实用工具;传感器;导航","o62",rtbus/rtbus.json
+Hyper Box,https://raw.githubusercontent.com/wuhaiqi0621/HyperBox_ForAstroBox/main/icon.png,https://raw.githubusercontent.com/wuhaiqi0621/HyperBox_ForAstroBox/main/preview.png,quickapp,"实用工具;工具箱;计算器;水平仪;每日一言;歌词本;答案之书;木鱼;性能测试;摩斯密码;二维码;跑马灯;荧光棒","n66,m67,n67,o66",charlie_q/hyperbox.json
