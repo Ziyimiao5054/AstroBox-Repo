@@ -48,8 +48,9 @@ def download_and_purge_repo_files(repo_url):
 
         references = []
 
+        item = manifest.get("item")
         for key in ['icon', 'preview']:
-            val = manifest.get(key)
+            val = item.get(key)
             if isinstance(val, list):
                 references.extend(val)
             elif isinstance(val, str):
