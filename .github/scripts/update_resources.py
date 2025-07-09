@@ -44,7 +44,7 @@ def download_and_purge_repo_files(repo_url):
         r.raise_for_status()
         manifest = r.json()
 
-        purge_jsdelivr_custom(f"{repo}/master/manifest.json", owner, repo)
+        purge_jsdelivr_custom(f"manifest.json", owner, repo)
 
         references = []
 
