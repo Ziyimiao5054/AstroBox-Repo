@@ -1,13 +1,25 @@
-name: Purge jsDelivr Cache
+name: Update & Purge jsDelivr Cache
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # 每小时运行一次
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
-  purge-cache:
+  update-and-purge:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Make purge request to jsDelivr
-        run: |
-          curl -s -X GET "https://purge.jsdelivr.net/gh/Astralsightstudios/AstroBox-Repo@master/index.csv"
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests json5
+
+      - name: Run update script
+        run: python .github/scripts/update_resources.py
