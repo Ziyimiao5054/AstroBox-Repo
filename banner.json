@@ -1,5 +1,15 @@
 [
     {
+        "background": "assets/banner/popp/back.png",
+        "title": "PoP☆P",
+        "description": "《星之卡比》风格表盘",
+        "foreground": "assets/banner/popp/fore.png",
+        "button": {
+            "text": "立即下载",
+            "url": "https://astrobox.online/open?source=res&res=PoP%E2%98%86P&provider=official"
+        }
+    },
+    {
         "background": "assets/banner/b2048/back.png",
         "title": "Better2048",
         "description": "官方的不好玩，我们重新做了一个",
