@@ -13,32 +13,124 @@ AstroBox的官方软件源仓库
 </a>
 ```
 
-我们还提供多种样式，您只需更换img标签中的src即可：
+<table>
+  <thead>
+    <tr>
+      <th>语言</th>
+      <th>样式</th>
+      <th>配色</th>
+      <th>图片</th>
+      <th>链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="9">简体中文</td>
+      <td rowspan="3">标准</td>
+      <td>黑色</td>
+      <td><img src="https://astrobox.online/goab/zhcn/black.svg" alt="黑色" style="min-width: 234px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/zhcn/black.svg">https://astrobox.online/goab/zhcn/black.svg</a></code></td>
+    </tr>
+    <tr>
+      <td>灰色</td>
+      <td><img src="https://astrobox.online/goab/zhcn/gray.svg" alt="灰色" style="min-width: 234px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/zhcn/gray.svg">https://astrobox.online/goab/zhcn/gray.svg</a></code></td>
+    </tr>
+    <tr>
+      <td>亮色</td>
+      <td><img src="https://astrobox.online/goab/zhcn/white.svg" alt="亮色" style="min-width: 234px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/zhcn/white.svg">https://astrobox.online/goab/zhcn/white.svg</a></code></td>
+    </tr>
+    <tr>
+      <td rowspan="3">胶囊</td>
+      <td>黑色</td>
+      <td><img src="https://astrobox.online/goab/zhcn/rounded/black.svg" alt="胶囊黑色" style="min-width: 228px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/zhcn/rounded/black.svg">https://astrobox.online/goab/zhcn/rounded/black.svg</a></code></td>
+    </tr>
+    <tr>
+      <td>灰色</td>
+      <td><img src="https://astrobox.online/goab/zhcn/rounded/gray.svg" alt="胶囊灰色" style="min-width: 228px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/zhcn/rounded/gray.svg">https://astrobox.online/goab/zhcn/rounded/gray.svg</a></code></td>
+    </tr>
+    <tr>
+      <td>亮色</td>
+      <td><img src="https://astrobox.online/goab/zhcn/rounded/white.svg" alt="胶囊亮色" style="min-width: 228px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/zhcn/rounded/white.svg">https://astrobox.online/goab/zhcn/rounded/white.svg</a></code></td>
+    </tr>
+    <tr>
+      <td rowspan="3">链接</td>
+      <td>黑色</td>
+      <td><img src="https://astrobox.online/goab/zhcn/linked/black.svg" alt="链接黑色" style="min-width: 256px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/zhcn/linked/black.svg">https://astrobox.online/goab/zhcn/linked/black.svg</a></code></td>
+    </tr>
+    <tr>
+      <td>灰色</td>
+      <td><img src="https://astrobox.online/goab/zhcn/linked/gray.svg" alt="链接灰色" style="min-width: 256px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/zhcn/linked/gray.svg">https://astrobox.online/goab/zhcn/linked/gray.svg</a></code></td>
+    </tr>
+    <tr>
+      <td>亮色</td>
+      <td><img src="https://astrobox.online/goab/zhcn/linked/white.svg" alt="链接亮色" style="min-width: 256px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/zhcn/linked/white.svg">https://astrobox.online/goab/zhcn/linked/white.svg</a></code></td>
+    </tr>
+    <tr>
+      <td rowspan="9">英文</td>
+      <td rowspan="3">标准</td>
+      <td>黑色</td>
+      <td><img src="https://astrobox.online/goab/en/black.svg" alt="黑色" style="min-width: 234px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/en/black.svg">https://astrobox.online/goab/en/black.svg</a></code></td>
+    </tr>
+    <tr>
+      <td>灰色</td>
+      <td><img src="https://astrobox.online/goab/en/gray.svg" alt="灰色" style="min-width: 234px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/en/gray.svg">https://astrobox.online/goab/en/gray.svg</a></code></td>
+    </tr>
+    <tr>
+      <td>亮色</td>
+      <td><img src="https://astrobox.online/goab/en/white.svg" alt="亮色" style="min-width: 234px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/en/white.svg">https://astrobox.online/goab/en/white.svg</a></code></td>
+    </tr>
+    <tr>
+      <td rowspan="3">胶囊</td>
+      <td>黑色</td>
+      <td><img src="https://astrobox.online/goab/en/rounded/black.svg" alt="胶囊黑色" style="min-width: 228px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/en/rounded/black.svg">https://astrobox.online/goab/en/rounded/black.svg</a></code></td>
+    </tr>
+    <tr>
+      <td>灰色</td>
+      <td><img src="https://astrobox.online/goab/en/rounded/gray.svg" alt="胶囊灰色" style="min-width: 228px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/en/rounded/gray.svg">https://astrobox.online/goab/en/rounded/gray.svg</a></code></td>
+    </tr>
+    <tr>
+      <td>亮色</td>
+      <td><img src="https://astrobox.online/goab/en/rounded/white.svg" alt="胶囊亮色" style="min-width: 228px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/en/rounded/white.svg">https://astrobox.online/goab/en/rounded/white.svg</a></code></td>
+    </tr>
+    <tr>
+      <td rowspan="3">链接</td>
+      <td>黑色</td>
+      <td><img src="https://astrobox.online/goab/en/linked/black.svg" alt="链接黑色" style="min-width: 256px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/en/linked/black.svg">https://astrobox.online/goab/en/linked/black.svg</a></code></td>
+    </tr>
+    <tr>
+      <td>灰色</td>
+      <td><img src="https://astrobox.online/goab/en/linked/gray.svg" alt="链接灰色" style="min-width: 256px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/en/linked/gray.svg">https://astrobox.online/goab/en/linked/gray.svg</a></code></td>
+    </tr>
+    <tr>
+      <td>亮色</td>
+      <td><img src="https://astrobox.online/goab/en/linked/white.svg" alt="链接亮色" style="min-width: 256px; min-height: 46px; height: 46px;" /></td>
+      <td><code><a href="https://astrobox.online/goab/en/linked/white.svg">https://astrobox.online/goab/en/linked/white.svg</a></code></td>
+    </tr>
+  </tbody>
+</table>
 
-简体中文：
 
-![](https://astrobox.online/goab/zhcn/black.svg)
+### 规范化使用
+为保证在页面上的可读性，我们建议您在使用徽标时将其高度设为 46px，最小不应低于 40px
 
-![](https://astrobox.online/goab/zhcn/gray.svg)
+<img height="93" alt="高度展示图" src="https://github.com/user-attachments/assets/bc87f41b-a020-4799-8d20-b4b285196d29" />
 
-![](https://astrobox.online/goab/zhcn/white.svg)
+当高度为 46px 时，字号为 16px；当高度为 40px 时，字号为 14px
 
-```
-https://astrobox.online/goab/zhcn/black.svg
-https://astrobox.online/goab/zhcn/gray.svg
-https://astrobox.online/goab/zhcn/white.svg
-```
-
-英文：
-
-![](https://astrobox.online/goab/en/black.svg)
-
-![](https://astrobox.online/goab/en/gray.svg)
-
-![](https://astrobox.online/goab/en/white.svg)
-
-```
-https://astrobox.online/goab/en/black.svg
-https://astrobox.online/goab/en/gray.svg
-https://astrobox.online/goab/en/white.svg
-```
+徽标的外边距建议应为高度的 1.25 倍 (125%)，在等比缩放后还需四舍五入以使得数不保留小数点，如 46px 高边距即为 12px，40px 高边距即为 5px
