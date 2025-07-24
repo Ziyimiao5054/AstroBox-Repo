@@ -1,12 +1,32 @@
 [
     {
-        "background": "",
-        "title": "",
-        "description": "",
-        "foreground": "",
+        "background": "assets/banner/popp/back.png",
+        "title": "PoP☆P",
+        "description": "《星之卡比》风格表盘",
+        "foreground": "assets/banner/popp/fore.png",
         "button": {
-            "text": "",
-            "url": ""
+            "text": "立即下载",
+            "url": "https://astrobox.online/open?source=res&res=PoP%E2%98%86P&provider=official"
+        }
+    },
+    {
+        "background": "assets/banner/b2048/back.png",
+        "title": "Better2048",
+        "description": "官方的不好玩，我们重新做了一个",
+        "foreground": "assets/banner/b2048/fore.png",
+        "button": {
+            "text": "立即下载",
+            "url": "https://www.bandbbs.cn/resources/2259/"
+        }
+    },
+    {
+        "background": "assets/banner/meowbook/bg.png",
+        "title": "喵喵电子书",
+        "description": "完全重构版本！",
+        "foreground": "assets/banner/meowbook/fg.png",
+        "button": {
+            "text": "立即下载",
+            "url": "https://astrobox.online/open?source=res&res=%E5%96%B5%E5%96%B5%E7%94%B5%E5%AD%90%E4%B9%A6&provider=official"
         }
     }
 ]
