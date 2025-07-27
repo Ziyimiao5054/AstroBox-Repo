@@ -59,7 +59,7 @@
         "chip": "bes",
         "fetch": true
     },
-    "M2424W1": {
+    "M2424W1": { // S4 eSIM
         "name": "Xiaomi Watch S4 系列",
         "codename": "o62",
         "chip": "bes",
@@ -78,7 +78,7 @@
         "fetch": true
     },
     "M2502W1": {
-        "name": "Xiaomi Watch S4 系列",
+        "name": "Xiaomi Watch S4 系列", // S4 41mm 无特别特性 当成普通S4看待
         "codename": "o62",
         "chip": "bes",
         "fetch": true
