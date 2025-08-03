@@ -1,4 +1,4 @@
-name,icon,cover,restype,tags,devices,path,paid_type
+？name,icon,cover,restype,tags,devices,path,paid_type
 澎湃哔哩,https://raw.githubusercontent.com/Searchstars/Hyperbilibili_AstroBox_Release/refs/heads/main/icon.png,https://raw.githubusercontent.com/Searchstars/Hyperbilibili_AstroBox_Release/refs/heads/main/preview.png,quickapp,"客户端;实用工具;视频;社区;互动;在线;哔哩哔哩;B站;b站","n62;o62;o65m;n67",searchstars/hyperbili.json,
 Starfield Chronomark,https://raw.githubusercontent.com/Searchstars/StarfieldWatchFace_AstroBox_Release/refs/heads/main/icon.png,https://raw.githubusercontent.com/Searchstars/StarfieldWatchFace_AstroBox_Release/refs/heads/main/preview.png,watchface,"复刻;Starfield;星空;表盘;简约","n62;o62",searchstars/starfield_watchface.json,
 木鱼Pro,https://raw.githubusercontent.com/wuhaiqi0621/muyuPro_ForAstroBox/refs/heads/main/icon.png,https://raw.githubusercontent.com/wuhaiqi0621/muyuPro_ForAstroBox/refs/heads/main/head.png,quickapp,"实用工具;木鱼;游戏","n66;n67;o66;o66nfc",charlie_q/muyuPro.json,paid
@@ -73,4 +73,4 @@ Material You,https://raw.githubusercontent.com/YangWan233/Material-You_AstroBox/
 SimpleRSS 简读,https://raw.githubusercontent.com/yzl3014/AstroBox_SimpleRSS/refs/heads/main/logo.png,https://raw.githubusercontent.com/yzl3014/AstroBox_SimpleRSS/refs/heads/main/cover.png,quickapp,"工具;阅读;RSS",n67,yzl3014/simpleRSS.json,
 MIPhonego,https://raw.githubusercontent.com/wanggantian/MIPhonego/refs/heads/main/icon.png,https://raw.githubusercontent.com/wanggantian/MIPhonego/refs/heads/main/cover.png,quickapp,"游戏;免费;梗","n67",wanggantian/MIPhonego.json,
 BanGUI 千早爱音,https://raw.githubusercontent.com/SmallK111407/BanGUI_ChihayaAnon_AstroBox/refs/heads/main/icon.png,https://raw.githubusercontent.com/SmallK111407/BanGUI_ChihayaAnon_AstroBox/refs/heads/main/cover.png,watchface,"表盘;邦多利;千早爱音;二次元;丰富样式;多数据","o66;o66nfc",smallk111407/BanGUI_ChihayaAnon.json,paid
-环间跳蛋,https://raw.githubusercontent.com/MapleMapleMa/SmartVibrator/refs/heads/main/icon.png,https://raw.githubusercontent.com/MapleMapleMa/SmartVibrator/refs/heads/main/头图.png,quickapp,"娱乐;实用工具","o66;o66nfc",SmartVibrator/SmartVibrator.json,
+环间跳蛋,https://raw.githubusercontent.com/MapleMapleMa/SmartVibrator/refs/heads/main/icon.png,https://raw.githubusercontent.com/MapleMapleMa/SmartVibrator/refs/heads/main/头图.png,quickapp,"娱乐;实用工具","o66;o66nfc",SmartVibrator/SmartVibrator.json
